@@ -1,2 +1,2 @@
-# IntroToProg-Python-Mo07
+# IntroToProg-Python-Mod07
 GitHub Page for Assignment 07
